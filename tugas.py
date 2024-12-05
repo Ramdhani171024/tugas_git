@@ -70,3 +70,4 @@ for lokasi, data in data_panen.items():
         print(f"{data['nama_lokasi']} dalam kondisi baik.")
 
 print("soal3")
+print("tugas3")
